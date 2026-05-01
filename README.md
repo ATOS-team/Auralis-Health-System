@@ -32,6 +32,14 @@ A state-of-the-art Clinical Decision Support System (CDSS) and Hospital Manageme
 
 ---
 
+## 📁 Project Structure
+
+- **`auralis-frontend/`**: The React & Vite web application providing the sleek user interface.
+- **`auralis-backend/`**: The FastAPI backend powering the APIs, predictive ML models, and clinical algorithms.
+- **`Patient Vital Signs and Event Tracking/`**: Contains the `dummy_obs.csv` dataset and vital sign tracking information used for testing and ML model configuration.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
